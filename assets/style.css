@@ -42,6 +42,7 @@ body{
 }
 .contenedor-texto{
     width: 60%;    
+    background: white;
 }
 
 .alert{
