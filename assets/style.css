@@ -186,7 +186,39 @@ span{
         margin-left: 25%;
     }
 }
+@media only screen and (max-width: 700px) {
+    #entrada{
+        text-align: center;
+        font-size: 1em;
+        width: 100%;
+    }
+    .contenedor-codificado p, .contenedor-codificado textarea{
+        font-size: 0.8rem;
+    }
+    .btn1,.btn2{
+        font-size: 0.8rem;
+        width: 15em;
+        height: 2.5rem;
+        margin-top: 10%;
+    }
+    .alert{
+        margin: 0 auto;
+        text-align:justify;
+        font-size: 0.8em;
+        margin-left: 0%;
+    }
+    .contenedor-botones{
+        display: block;
+        margin: 0px 50px;
+    }
+    #resultado{
+        font-size: 1em;
+    }
+    #titulo-resultado{
+        font-size: 1.2em;
+    }
 
+}
 @media only screen and (max-width: 400px) {
     #entrada{
         text-align: center;
