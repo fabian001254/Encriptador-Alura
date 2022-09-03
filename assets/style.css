@@ -197,7 +197,7 @@ span{
     }
     .contenedor-texto{
         margin: 0%;
-        width: auto;
+        width: 100%;
     }
     .contenedor-codificado p, .contenedor-codificado textarea{
         font-size: 0.8rem;
