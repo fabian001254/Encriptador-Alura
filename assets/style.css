@@ -41,8 +41,11 @@ body{
     text-align: center;
 }
 .contenedor-texto{
-    width: 60%;    
-    background: white;
+    padding-top: 2%;
+    width: 60%;
+    height: auto;
+    border-radius: 50px;    
+    text-align: center;
 }
 
 .alert{
@@ -134,7 +137,7 @@ span{
     }
     .contenedor{
         margin-top: 5%;
-        display: block;
+        display: inline-block;
         align-items: center;
     }
     #entrada,#resultado{
@@ -153,8 +156,10 @@ span{
         height: 100%;
     }
     .contenedor-texto{
-        margin-left:5%;    
-        display: block;
+        padding-top: 2%;
+        width: 100%;
+        height: auto;  
+        text-align: center;
     }
     .contenedor-texto{
         width: 60%;
@@ -195,9 +200,7 @@ span{
         width: 100%;
         margin: 0%;
         text-align:center;
-    }
-    .contenedor{
-        width: 100%;
+        width: 50%;
     }
     .contenedor-texto{
         margin: 0%;
@@ -228,6 +231,11 @@ span{
     }
     #titulo-resultado{
         font-size: 1.2em;
+    }
+    .contenedor{
+        width: 100%;
+        margin-right: 6%;
+
     }
 
 }
