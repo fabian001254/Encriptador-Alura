@@ -189,6 +189,9 @@ span{
         width: 15em;
         height: 2.5rem;
     }
+	.btn2{
+		margin-top: 2%;
+	}
     .contenedor-botones{
         margin-left: 25%;
     }
@@ -216,14 +219,10 @@ span{
         height: 2.5rem;
         margin-top: 10%;
     }
-	.btn2{
-		margin-top:3%;
-	}
     .alert{
         margin:auto;
         text-align:justify;
         font-size: 0.8em;
-        width: 200px;
         right: 0;
     }
     .contenedor-botones{
@@ -271,7 +270,7 @@ span{
     }
     .contenedor-botones{
         display: block;
-        margin: 0px 50px;	 
+        margin: 0px 50px;
     }
     #resultado{
         font-size: 1em;
