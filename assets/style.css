@@ -41,11 +41,8 @@ body{
     text-align: center;
 }
 .contenedor-texto{
-    padding-top: 2%;
-    width: 60%;
-    height: auto;
-    border-radius: 50px;    
-    text-align: center;
+    width: 60%;    
+    background: white;
 }
 
 .alert{
@@ -137,7 +134,7 @@ span{
     }
     .contenedor{
         margin-top: 5%;
-        display: inline-block;
+        display: block;
         align-items: center;
     }
     #entrada,#resultado{
@@ -156,10 +153,9 @@ span{
         height: 100%;
     }
     .contenedor-texto{
-        padding-top: 2%;
-        width: 100%;
-        height: auto;  
-        text-align: center;
+        margin-left:5%;    
+        display: space-around;
+        margin-right: 5%;
     }
     .contenedor-texto{
         width: 60%;
@@ -200,7 +196,6 @@ span{
         width: 100%;
         margin: 0%;
         text-align:center;
-        width: 50%;
     }
     .contenedor-texto{
         margin: 0%;
