@@ -216,6 +216,9 @@ span{
         height: 2.5rem;
         margin-top: 10%;
     }
+	.btn2{
+		margin-top:3%;
+	}
     .alert{
         margin:auto;
         text-align:justify;
@@ -268,7 +271,7 @@ span{
     }
     .contenedor-botones{
         display: block;
-        margin: 0px 50px;
+        margin: 0px 50px;	 
     }
     #resultado{
         font-size: 1em;
