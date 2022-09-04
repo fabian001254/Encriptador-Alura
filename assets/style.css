@@ -181,7 +181,8 @@ span{
     .alert{
         margin-top: 5%;
         text-align: center;
-        margin-left: 20%;
+		padding-left: 15%
+		
     }
     .btn1,.btn2{
         font-size: 1rem;
@@ -245,6 +246,7 @@ span{
         text-align: center;
         font-size: 1em;
         width: 100%;
+		margin-left: -15%;
     }
     .contenedor-codificado p, .contenedor-codificado textarea{
         font-size: 0.8rem;
@@ -255,6 +257,9 @@ span{
         height: 2.5rem;
         margin-top: 10%;
     }
+	.btn2{
+		margin-top: 3%;
+	}
     .alert{
         margin: 0 auto;
         text-align:justify;
